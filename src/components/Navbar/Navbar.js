@@ -1,3 +1,5 @@
+import Avatar from "../Avatar"
+
 const Navbar = () => (
   <header className='navbar bg-secondary'>
     <section className='navbar-section navbar-left'>
@@ -7,6 +9,7 @@ const Navbar = () => (
       <a href='#link-1' className='btn btn-link'>Link 1</a>
       <a href='#link-2' className='btn btn-link'>Link 2</a>
       <a href='#link-3' className='btn btn-link'>Link 3</a>
+      <Avatar initials='JS' />
     </section>
   </header>
 )

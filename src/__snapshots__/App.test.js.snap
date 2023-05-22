@@ -47,6 +47,11 @@ Object {
                 >
                   Link 3
                 </a>
+                <figure
+                  class="avatar avatar-sm mx-2"
+                  data-initial="JS"
+                  style="background: rgb(87, 85, 217);"
+                />
               </section>
             </header>
             <div
@@ -223,6 +228,11 @@ Object {
               >
                 Link 3
               </a>
+              <figure
+                class="avatar avatar-sm mx-2"
+                data-initial="JS"
+                style="background: rgb(87, 85, 217);"
+              />
             </section>
           </header>
           <div

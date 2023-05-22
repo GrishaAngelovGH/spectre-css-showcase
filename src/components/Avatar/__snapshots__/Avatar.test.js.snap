@@ -1,93 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render Navbar component 1`] = `
+exports[`should render Avatar component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <header
-        class="navbar bg-secondary"
-      >
-        <section
-          class="navbar-section navbar-left"
-        >
-          <h3
-            class="m-0 mx-2"
-          >
-            Navbar Title
-          </h3>
-        </section>
-        <section
-          class="navbar-section"
-        >
-          <a
-            class="btn btn-link"
-            href="#link-1"
-          >
-            Link 1
-          </a>
-          <a
-            class="btn btn-link"
-            href="#link-2"
-          >
-            Link 2
-          </a>
-          <a
-            class="btn btn-link"
-            href="#link-3"
-          >
-            Link 3
-          </a>
-          <figure
-            class="avatar avatar-sm mx-2"
-            data-initial="JS"
-            style="background: rgb(87, 85, 217);"
-          />
-        </section>
-      </header>
+      <figure
+        class="avatar avatar-sm mx-2"
+        data-initial="JS"
+        style="background: rgb(87, 85, 217);"
+      />
     </div>
   </body>,
   "container": <div>
-    <header
-      class="navbar bg-secondary"
-    >
-      <section
-        class="navbar-section navbar-left"
-      >
-        <h3
-          class="m-0 mx-2"
-        >
-          Navbar Title
-        </h3>
-      </section>
-      <section
-        class="navbar-section"
-      >
-        <a
-          class="btn btn-link"
-          href="#link-1"
-        >
-          Link 1
-        </a>
-        <a
-          class="btn btn-link"
-          href="#link-2"
-        >
-          Link 2
-        </a>
-        <a
-          class="btn btn-link"
-          href="#link-3"
-        >
-          Link 3
-        </a>
-        <figure
-          class="avatar avatar-sm mx-2"
-          data-initial="JS"
-          style="background: rgb(87, 85, 217);"
-        />
-      </section>
-    </header>
+    <figure
+      class="avatar avatar-sm mx-2"
+      data-initial="JS"
+      style="background: rgb(87, 85, 217);"
+    />
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],
