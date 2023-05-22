@@ -69,6 +69,110 @@ Object {
                     </p>
                   </div>
                 </div>
+                <div
+                  class="columns mx-2"
+                >
+                  <div
+                    class="column col-6 col-md-12"
+                  >
+                    <h3>
+                      Accordion
+                    </h3>
+                    <div
+                      class="accordion"
+                    >
+                      <input
+                        checked=""
+                        class="d-none"
+                        hidden=""
+                        id="accordion-1"
+                        name="accordion-radio"
+                        readonly=""
+                        type="radio"
+                      />
+                      <label
+                        class="accordion-header c-hand"
+                        for="accordion-2"
+                      >
+                        <i
+                          class="icon icon-arrow-right mr-1"
+                        />
+                        Elements
+                      </label>
+                      <div
+                        class="accordion-body"
+                      >
+                        <ul
+                          class="menu menu-nav"
+                        >
+                          <li
+                            class="menu-item"
+                          >
+                            <a
+                              href="#accordions"
+                            >
+                              Element 1
+                            </a>
+                          </li>
+                          <li
+                            class="menu-item"
+                          >
+                            <a
+                              href="#accordions"
+                            >
+                              Element 2
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion"
+                    >
+                      <input
+                        class="d-none"
+                        id="accordion-2"
+                        name="accordion-radio"
+                        type="radio"
+                      />
+                      <label
+                        class="accordion-header c-hand"
+                        for="accordion-2"
+                      >
+                        <i
+                          class="icon icon-arrow-right mr-1"
+                        />
+                        Layouts
+                      </label>
+                      <div
+                        class="accordion-body"
+                      >
+                        <ul
+                          class="menu menu-nav"
+                        >
+                          <li
+                            class="menu-item"
+                          >
+                            <a
+                              href="#accordions"
+                            >
+                              Layout 1
+                            </a>
+                          </li>
+                          <li
+                            class="menu-item"
+                          >
+                            <a
+                              href="#accordions"
+                            >
+                              Layout 2
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -139,6 +243,110 @@ Object {
                   <p>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, officiis laudantium.
                   </p>
+                </div>
+              </div>
+              <div
+                class="columns mx-2"
+              >
+                <div
+                  class="column col-6 col-md-12"
+                >
+                  <h3>
+                    Accordion
+                  </h3>
+                  <div
+                    class="accordion"
+                  >
+                    <input
+                      checked=""
+                      class="d-none"
+                      hidden=""
+                      id="accordion-1"
+                      name="accordion-radio"
+                      readonly=""
+                      type="radio"
+                    />
+                    <label
+                      class="accordion-header c-hand"
+                      for="accordion-2"
+                    >
+                      <i
+                        class="icon icon-arrow-right mr-1"
+                      />
+                      Elements
+                    </label>
+                    <div
+                      class="accordion-body"
+                    >
+                      <ul
+                        class="menu menu-nav"
+                      >
+                        <li
+                          class="menu-item"
+                        >
+                          <a
+                            href="#accordions"
+                          >
+                            Element 1
+                          </a>
+                        </li>
+                        <li
+                          class="menu-item"
+                        >
+                          <a
+                            href="#accordions"
+                          >
+                            Element 2
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div
+                    class="accordion"
+                  >
+                    <input
+                      class="d-none"
+                      id="accordion-2"
+                      name="accordion-radio"
+                      type="radio"
+                    />
+                    <label
+                      class="accordion-header c-hand"
+                      for="accordion-2"
+                    >
+                      <i
+                        class="icon icon-arrow-right mr-1"
+                      />
+                      Layouts
+                    </label>
+                    <div
+                      class="accordion-body"
+                    >
+                      <ul
+                        class="menu menu-nav"
+                      >
+                        <li
+                          class="menu-item"
+                        >
+                          <a
+                            href="#accordions"
+                          >
+                            Layout 1
+                          </a>
+                        </li>
+                        <li
+                          class="menu-item"
+                        >
+                          <a
+                            href="#accordions"
+                          >
+                            Layout 2
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

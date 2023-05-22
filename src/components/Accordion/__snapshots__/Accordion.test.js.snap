@@ -1,0 +1,272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Accordion component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="columns mx-2"
+      >
+        <div
+          class="column col-6 col-md-12"
+        >
+          <h3>
+            Accordion
+          </h3>
+          <div
+            class="accordion"
+          >
+            <input
+              checked=""
+              class="d-none"
+              hidden=""
+              id="accordion-1"
+              name="accordion-radio"
+              readonly=""
+              type="radio"
+            />
+            <label
+              class="accordion-header c-hand"
+              for="accordion-2"
+            >
+              <i
+                class="icon icon-arrow-right mr-1"
+              />
+              Elements
+            </label>
+            <div
+              class="accordion-body"
+            >
+              <ul
+                class="menu menu-nav"
+              >
+                <li
+                  class="menu-item"
+                >
+                  <a
+                    href="#accordions"
+                  >
+                    Element 1
+                  </a>
+                </li>
+                <li
+                  class="menu-item"
+                >
+                  <a
+                    href="#accordions"
+                  >
+                    Element 2
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            class="accordion"
+          >
+            <input
+              class="d-none"
+              id="accordion-2"
+              name="accordion-radio"
+              type="radio"
+            />
+            <label
+              class="accordion-header c-hand"
+              for="accordion-2"
+            >
+              <i
+                class="icon icon-arrow-right mr-1"
+              />
+              Layouts
+            </label>
+            <div
+              class="accordion-body"
+            >
+              <ul
+                class="menu menu-nav"
+              >
+                <li
+                  class="menu-item"
+                >
+                  <a
+                    href="#accordions"
+                  >
+                    Layout 1
+                  </a>
+                </li>
+                <li
+                  class="menu-item"
+                >
+                  <a
+                    href="#accordions"
+                  >
+                    Layout 2
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="columns mx-2"
+    >
+      <div
+        class="column col-6 col-md-12"
+      >
+        <h3>
+          Accordion
+        </h3>
+        <div
+          class="accordion"
+        >
+          <input
+            checked=""
+            class="d-none"
+            hidden=""
+            id="accordion-1"
+            name="accordion-radio"
+            readonly=""
+            type="radio"
+          />
+          <label
+            class="accordion-header c-hand"
+            for="accordion-2"
+          >
+            <i
+              class="icon icon-arrow-right mr-1"
+            />
+            Elements
+          </label>
+          <div
+            class="accordion-body"
+          >
+            <ul
+              class="menu menu-nav"
+            >
+              <li
+                class="menu-item"
+              >
+                <a
+                  href="#accordions"
+                >
+                  Element 1
+                </a>
+              </li>
+              <li
+                class="menu-item"
+              >
+                <a
+                  href="#accordions"
+                >
+                  Element 2
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="accordion"
+        >
+          <input
+            class="d-none"
+            id="accordion-2"
+            name="accordion-radio"
+            type="radio"
+          />
+          <label
+            class="accordion-header c-hand"
+            for="accordion-2"
+          >
+            <i
+              class="icon icon-arrow-right mr-1"
+            />
+            Layouts
+          </label>
+          <div
+            class="accordion-body"
+          >
+            <ul
+              class="menu menu-nav"
+            >
+              <li
+                class="menu-item"
+              >
+                <a
+                  href="#accordions"
+                >
+                  Layout 1
+                </a>
+              </li>
+              <li
+                class="menu-item"
+              >
+                <a
+                  href="#accordions"
+                >
+                  Layout 2
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

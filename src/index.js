@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'spectre.css/dist/spectre.css'
+import 'spectre.css/dist/spectre-icons.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
