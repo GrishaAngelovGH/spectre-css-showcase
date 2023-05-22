@@ -1,8 +1,9 @@
 import Layout from './components/Layout'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
-    <Layout header={<h1>Header</h1>}>
+    <Layout header={<Navbar />}>
       <h1>Body</h1>
     </Layout>
   );
