@@ -184,6 +184,42 @@ Object {
                     </div>
                   </div>
                 </div>
+                <div
+                  class="bar"
+                >
+                  <div
+                    class="bar-item tooltip"
+                    data-tooltip="25%"
+                    role="progressbar"
+                    style="width: 25%;"
+                  >
+                    25%
+                  </div>
+                  <div
+                    class="bar-item tooltip"
+                    data-tooltip="15%"
+                    role="progressbar"
+                    style="width: 15%; background: rgb(129, 127, 227);"
+                  >
+                    15%
+                  </div>
+                  <div
+                    class="bar-item tooltip"
+                    data-tooltip="10%"
+                    role="progressbar"
+                    style="width: 10%; background: rgb(170, 169, 235);"
+                  >
+                    10%
+                  </div>
+                  <div
+                    class="bar-item tooltip"
+                    data-tooltip="15%"
+                    role="progressbar"
+                    style="width: 15%;"
+                  >
+                    15%
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -369,6 +405,42 @@ Object {
                       </ul>
                     </div>
                   </div>
+                </div>
+              </div>
+              <div
+                class="bar"
+              >
+                <div
+                  class="bar-item tooltip"
+                  data-tooltip="25%"
+                  role="progressbar"
+                  style="width: 25%;"
+                >
+                  25%
+                </div>
+                <div
+                  class="bar-item tooltip"
+                  data-tooltip="15%"
+                  role="progressbar"
+                  style="width: 15%; background: rgb(129, 127, 227);"
+                >
+                  15%
+                </div>
+                <div
+                  class="bar-item tooltip"
+                  data-tooltip="10%"
+                  role="progressbar"
+                  style="width: 10%; background: rgb(170, 169, 235);"
+                >
+                  10%
+                </div>
+                <div
+                  class="bar-item tooltip"
+                  data-tooltip="15%"
+                  role="progressbar"
+                  style="width: 15%;"
+                >
+                  15%
                 </div>
               </div>
             </div>
