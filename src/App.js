@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Accordion from './components/Accordion'
 import Bar from './components/Bar'
+import SliderBar from './components/SliderBar'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       />
       <Accordion />
       <Bar />
+      <SliderBar />
     </Layout>
   );
 }

@@ -220,6 +220,21 @@ Object {
                     15%
                   </div>
                 </div>
+                <div
+                  class="bar bar-slider"
+                  style="margin-top: 50px;"
+                >
+                  <div
+                    class="bar-item"
+                    role="progressbar"
+                    style="width: 25%;"
+                  >
+                    <button
+                      class="bar-slider-btn btn"
+                      role="slider"
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -441,6 +456,21 @@ Object {
                   style="width: 15%;"
                 >
                   15%
+                </div>
+              </div>
+              <div
+                class="bar bar-slider"
+                style="margin-top: 50px;"
+              >
+                <div
+                  class="bar-item"
+                  role="progressbar"
+                  style="width: 25%;"
+                >
+                  <button
+                    class="bar-slider-btn btn"
+                    role="slider"
+                  />
                 </div>
               </div>
             </div>
