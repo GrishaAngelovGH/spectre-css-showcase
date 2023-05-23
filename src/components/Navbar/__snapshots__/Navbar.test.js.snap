@@ -20,6 +20,12 @@ Object {
         <section
           class="navbar-section"
         >
+          <span
+            class="badge"
+            data-badge="12"
+          >
+            Notifications
+          </span>
           <a
             class="btn btn-link"
             href="#link-1"
@@ -63,6 +69,12 @@ Object {
       <section
         class="navbar-section"
       >
+        <span
+          class="badge"
+          data-badge="12"
+        >
+          Notifications
+        </span>
         <a
           class="btn btn-link"
           href="#link-1"
