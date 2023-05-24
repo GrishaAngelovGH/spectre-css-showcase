@@ -66,6 +66,43 @@ Object {
               <div
                 class="column col-12"
               >
+                <ul
+                  class="breadcrumb mx-2 bg-gray"
+                >
+                  <li
+                    class="breadcrumb-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Home"
+                      href="#breadcrumbs"
+                    >
+                      Home
+                    </a>
+                  </li>
+                  <li
+                    class="breadcrumb-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Settings"
+                      href="#breadcrumbs"
+                    >
+                      Settings
+                    </a>
+                  </li>
+                  <li
+                    class="breadcrumb-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Change avatar"
+                      href="#breadcrumbs"
+                    >
+                      Change avatar
+                    </a>
+                  </li>
+                </ul>
                 <div
                   class="hero bg-gray text-center"
                 >
@@ -304,6 +341,43 @@ Object {
             <div
               class="column col-12"
             >
+              <ul
+                class="breadcrumb mx-2 bg-gray"
+              >
+                <li
+                  class="breadcrumb-item"
+                >
+                  <a
+                    class="tooltip"
+                    data-tooltip="Home"
+                    href="#breadcrumbs"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li
+                  class="breadcrumb-item"
+                >
+                  <a
+                    class="tooltip"
+                    data-tooltip="Settings"
+                    href="#breadcrumbs"
+                  >
+                    Settings
+                  </a>
+                </li>
+                <li
+                  class="breadcrumb-item"
+                >
+                  <a
+                    class="tooltip"
+                    data-tooltip="Change avatar"
+                    href="#breadcrumbs"
+                  >
+                    Change avatar
+                  </a>
+                </li>
+              </ul>
               <div
                 class="hero bg-gray text-center"
               >
