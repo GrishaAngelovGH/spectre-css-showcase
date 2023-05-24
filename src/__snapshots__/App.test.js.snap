@@ -272,6 +272,62 @@ Object {
                     />
                   </div>
                 </div>
+                <div
+                  class="columns"
+                >
+                  <div
+                    class="column col-4 col-mx-auto"
+                  >
+                    <div
+                      class="card bg-gray"
+                    >
+                      <div
+                        class="card-header"
+                      >
+                        <div
+                          class="card-title h5"
+                        >
+                          Google
+                        </div>
+                        <div
+                          class="card-subtitle text-gray"
+                        >
+                          Software and hardware
+                        </div>
+                      </div>
+                      <div
+                        class="card-body"
+                      >
+                        Organize the world’s information and make it universally accessible and useful.
+                      </div>
+                      <div
+                        class="card-image"
+                      >
+                        <img
+                          alt="OS X Yosemite"
+                          class="img-responsive"
+                          src="https://9to5mac.com/wp-content/uploads/sites/6/2014/08/yosemite.jpg?quality=82&strip=all"
+                        />
+                      </div>
+                      <div
+                        class="card-footer"
+                      >
+                        <a
+                          class="btn btn-primary mx-2"
+                          href="#cards"
+                        >
+                          Search
+                        </a>
+                        <a
+                          class="btn btn-primary"
+                          href="#cards"
+                        >
+                          Share
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -545,6 +601,62 @@ Object {
                     class="bar-slider-btn btn"
                     role="slider"
                   />
+                </div>
+              </div>
+              <div
+                class="columns"
+              >
+                <div
+                  class="column col-4 col-mx-auto"
+                >
+                  <div
+                    class="card bg-gray"
+                  >
+                    <div
+                      class="card-header"
+                    >
+                      <div
+                        class="card-title h5"
+                      >
+                        Google
+                      </div>
+                      <div
+                        class="card-subtitle text-gray"
+                      >
+                        Software and hardware
+                      </div>
+                    </div>
+                    <div
+                      class="card-body"
+                    >
+                      Organize the world’s information and make it universally accessible and useful.
+                    </div>
+                    <div
+                      class="card-image"
+                    >
+                      <img
+                        alt="OS X Yosemite"
+                        class="img-responsive"
+                        src="https://9to5mac.com/wp-content/uploads/sites/6/2014/08/yosemite.jpg?quality=82&strip=all"
+                      />
+                    </div>
+                    <div
+                      class="card-footer"
+                    >
+                      <a
+                        class="btn btn-primary mx-2"
+                        href="#cards"
+                      >
+                        Search
+                      </a>
+                      <a
+                        class="btn btn-primary"
+                        href="#cards"
+                      >
+                        Share
+                      </a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

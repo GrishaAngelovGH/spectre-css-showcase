@@ -1,6 +1,7 @@
 import Accordion from './components/Accordion'
 import Bar from './components/Bar'
 import Breadcrumbs from './components/Breadcrumbs'
+import Card from './components/Card'
 import Hero from './components/Hero'
 import Layout from './components/Layout'
 import Navbar from './components/Navbar'
@@ -17,6 +18,7 @@ function App() {
       <Accordion />
       <Bar />
       <SliderBar />
+      <Card />
     </Layout>
   );
 }
