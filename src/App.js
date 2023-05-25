@@ -3,6 +3,7 @@ import Bar from './components/Bar'
 import Breadcrumbs from './components/Breadcrumbs'
 import Card from './components/Card'
 import Chips from './components/Chips'
+import EmptyState from './components/EmptyState'
 import Hero from './components/Hero'
 import Layout from './components/Layout'
 import Navbar from './components/Navbar'
@@ -21,6 +22,7 @@ function App() {
       <SliderBar />
       <Card />
       <Chips />
+      <EmptyState />
     </Layout>
   );
 }

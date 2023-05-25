@@ -1,50 +1,55 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render Chips component 1`] = `
+exports[`should render EmptyState component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
         class="columns"
-        style="margin: 50px;"
       >
         <div
           class="column col-4 col-mx-auto"
         >
-          <span
-            class="chip"
+          <div
+            class="empty"
           >
-            Item 1
-            <a
-              aria-label="Close"
-              class="btn btn-clear"
-              href="#"
-              role="button"
-            />
-          </span>
-          <span
-            class="chip"
-          >
-            Item 2
-            <a
-              aria-label="Close"
-              class="btn btn-clear"
-              href="#"
-              role="button"
-            />
-          </span>
-          <span
-            class="chip"
-          >
-            Item 3
-            <a
-              aria-label="Close"
-              class="btn btn-clear"
-              href="#"
-              role="button"
-            />
-          </span>
+            <div
+              class="empty-icon"
+            >
+              <i
+                class="icon icon-3x icon-mail"
+              />
+            </div>
+            <p
+              class="empty-title h5"
+            >
+              You've successfully signed up
+            </p>
+            <p
+              class="empty-subtitle"
+            >
+              Click the button to invite your friends
+            </p>
+            <div
+              class="empty-action"
+            >
+              <button
+                class="btn btn-primary"
+              >
+                Invite your friends
+              </button>
+            </div>
+            <div
+              class="empty-action"
+            >
+              <button
+                class="btn btn-link"
+              >
+                Skip
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -52,44 +57,49 @@ Object {
   "container": <div>
     <div
       class="columns"
-      style="margin: 50px;"
     >
       <div
         class="column col-4 col-mx-auto"
       >
-        <span
-          class="chip"
+        <div
+          class="empty"
         >
-          Item 1
-          <a
-            aria-label="Close"
-            class="btn btn-clear"
-            href="#"
-            role="button"
-          />
-        </span>
-        <span
-          class="chip"
-        >
-          Item 2
-          <a
-            aria-label="Close"
-            class="btn btn-clear"
-            href="#"
-            role="button"
-          />
-        </span>
-        <span
-          class="chip"
-        >
-          Item 3
-          <a
-            aria-label="Close"
-            class="btn btn-clear"
-            href="#"
-            role="button"
-          />
-        </span>
+          <div
+            class="empty-icon"
+          >
+            <i
+              class="icon icon-3x icon-mail"
+            />
+          </div>
+          <p
+            class="empty-title h5"
+          >
+            You've successfully signed up
+          </p>
+          <p
+            class="empty-subtitle"
+          >
+            Click the button to invite your friends
+          </p>
+          <div
+            class="empty-action"
+          >
+            <button
+              class="btn btn-primary"
+            >
+              Invite your friends
+            </button>
+          </div>
+          <div
+            class="empty-action"
+          >
+            <button
+              class="btn btn-link"
+            >
+              Skip
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   </div>,

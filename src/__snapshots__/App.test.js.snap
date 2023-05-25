@@ -329,10 +329,11 @@ Object {
                   </div>
                 </div>
                 <div
-                  class="columns mt-2"
+                  class="columns"
+                  style="margin: 50px;"
                 >
                   <div
-                    class="column col-4"
+                    class="column col-4 col-mx-auto"
                   >
                     <span
                       class="chip"
@@ -367,6 +368,53 @@ Object {
                         role="button"
                       />
                     </span>
+                  </div>
+                </div>
+                <div
+                  class="columns"
+                >
+                  <div
+                    class="column col-4 col-mx-auto"
+                  >
+                    <div
+                      class="empty"
+                    >
+                      <div
+                        class="empty-icon"
+                      >
+                        <i
+                          class="icon icon-3x icon-mail"
+                        />
+                      </div>
+                      <p
+                        class="empty-title h5"
+                      >
+                        You've successfully signed up
+                      </p>
+                      <p
+                        class="empty-subtitle"
+                      >
+                        Click the button to invite your friends
+                      </p>
+                      <div
+                        class="empty-action"
+                      >
+                        <button
+                          class="btn btn-primary"
+                        >
+                          Invite your friends
+                        </button>
+                      </div>
+                      <div
+                        class="empty-action"
+                      >
+                        <button
+                          class="btn btn-link"
+                        >
+                          Skip
+                        </button>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -701,10 +749,11 @@ Object {
                 </div>
               </div>
               <div
-                class="columns mt-2"
+                class="columns"
+                style="margin: 50px;"
               >
                 <div
-                  class="column col-4"
+                  class="column col-4 col-mx-auto"
                 >
                   <span
                     class="chip"
@@ -739,6 +788,53 @@ Object {
                       role="button"
                     />
                   </span>
+                </div>
+              </div>
+              <div
+                class="columns"
+              >
+                <div
+                  class="column col-4 col-mx-auto"
+                >
+                  <div
+                    class="empty"
+                  >
+                    <div
+                      class="empty-icon"
+                    >
+                      <i
+                        class="icon icon-3x icon-mail"
+                      />
+                    </div>
+                    <p
+                      class="empty-title h5"
+                    >
+                      You've successfully signed up
+                    </p>
+                    <p
+                      class="empty-subtitle"
+                    >
+                      Click the button to invite your friends
+                    </p>
+                    <div
+                      class="empty-action"
+                    >
+                      <button
+                        class="btn btn-primary"
+                      >
+                        Invite your friends
+                      </button>
+                    </div>
+                    <div
+                      class="empty-action"
+                    >
+                      <button
+                        class="btn btn-link"
+                      >
+                        Skip
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
