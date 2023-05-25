@@ -328,6 +328,47 @@ Object {
                     </div>
                   </div>
                 </div>
+                <div
+                  class="columns mt-2"
+                >
+                  <div
+                    class="column col-4"
+                  >
+                    <span
+                      class="chip"
+                    >
+                      Item 1
+                      <a
+                        aria-label="Close"
+                        class="btn btn-clear"
+                        href="#"
+                        role="button"
+                      />
+                    </span>
+                    <span
+                      class="chip"
+                    >
+                      Item 2
+                      <a
+                        aria-label="Close"
+                        class="btn btn-clear"
+                        href="#"
+                        role="button"
+                      />
+                    </span>
+                    <span
+                      class="chip"
+                    >
+                      Item 3
+                      <a
+                        aria-label="Close"
+                        class="btn btn-clear"
+                        href="#"
+                        role="button"
+                      />
+                    </span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -657,6 +698,47 @@ Object {
                       </a>
                     </div>
                   </div>
+                </div>
+              </div>
+              <div
+                class="columns mt-2"
+              >
+                <div
+                  class="column col-4"
+                >
+                  <span
+                    class="chip"
+                  >
+                    Item 1
+                    <a
+                      aria-label="Close"
+                      class="btn btn-clear"
+                      href="#"
+                      role="button"
+                    />
+                  </span>
+                  <span
+                    class="chip"
+                  >
+                    Item 2
+                    <a
+                      aria-label="Close"
+                      class="btn btn-clear"
+                      href="#"
+                      role="button"
+                    />
+                  </span>
+                  <span
+                    class="chip"
+                  >
+                    Item 3
+                    <a
+                      aria-label="Close"
+                      class="btn btn-clear"
+                      href="#"
+                      role="button"
+                    />
+                  </span>
                 </div>
               </div>
             </div>
