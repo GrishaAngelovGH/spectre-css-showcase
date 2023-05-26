@@ -6,6 +6,7 @@ import Chips from './components/Chips'
 import EmptyState from './components/EmptyState'
 import Hero from './components/Hero'
 import Layout from './components/Layout'
+import Menu from './components/Menu'
 import Navbar from './components/Navbar'
 import SliderBar from './components/SliderBar'
 
@@ -23,6 +24,7 @@ function App() {
       <Card />
       <Chips />
       <EmptyState />
+      <Menu />
     </Layout>
   );
 }
