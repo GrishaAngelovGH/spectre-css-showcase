@@ -10,6 +10,7 @@ import Menu from './components/Menu'
 import Modal from './components/Modal'
 import Navbar from './components/Navbar'
 import SliderBar from './components/SliderBar'
+import Nav from './components/Nav'
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
       <EmptyState />
       <Menu />
       <Modal />
+      <Nav />
     </Layout>
   );
 }
