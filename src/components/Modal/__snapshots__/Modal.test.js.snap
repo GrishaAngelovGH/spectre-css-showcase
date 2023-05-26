@@ -1,0 +1,250 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Modal component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="column"
+        style="padding: 50px;"
+      >
+        <a
+          class="btn btn-primary"
+          href="#example-modal-1"
+        >
+          Open Modal
+        </a>
+        <div
+          class="modal"
+          id="example-modal-1"
+        >
+          <a
+            aria-label="Close"
+            class="modal-overlay"
+            href="#modals"
+          />
+          <div
+            class="modal-container"
+            role="document"
+          >
+            <div
+              class="modal-header"
+            >
+              <a
+                aria-label="Close"
+                class="btn btn-clear float-right"
+                href="#modals"
+              />
+              <div
+                class="modal-title h5"
+              >
+                Modal title
+              </div>
+            </div>
+            <div
+              class="modal-body"
+            >
+              <div
+                class="content"
+              >
+                <p>
+                  This is the content inside the modal.
+                </p>
+                <h4>
+                  Lorem ipsum
+                </h4>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
+                </p>
+                <p>
+                  Climb leg rub face on everything give attitude nap all day for under the bed. Chase mice attack feet but rub face on everything hopped up on goofballs.
+                </p>
+                <h4>
+                  Cupcake ipsum
+                </h4>
+                <p>
+                  Jelly-o sesame snaps halvah croissant oat cake cookie. Cheesecake bear claw topping. Chupa chups apple pie carrot cake chocolate cake caramels.
+                </p>
+                <p>
+                  De braaaiiiins apocalypsi gorger omero prefrontal cortex undead survivor fornix dictum mauris. Hi brains mindless mortuis limbic cortex soulless creaturas optic nerve.
+                </p>
+                <h4>
+                  Candy ipsum
+                </h4>
+                <p>
+                  Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar.
+                </p>
+                <p>
+                  Caerphilly swiss fromage frais. Brie cheese and wine fromage frais chalk and cheese danish fontina smelly cheese who moved my cheese cow.
+                </p>
+              </div>
+            </div>
+            <div
+              class="modal-footer"
+            >
+              <button
+                class="btn btn-primary"
+              >
+                Share
+              </button>
+              <a
+                class="btn btn-link"
+                href="#modals"
+              >
+                Close
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="column"
+      style="padding: 50px;"
+    >
+      <a
+        class="btn btn-primary"
+        href="#example-modal-1"
+      >
+        Open Modal
+      </a>
+      <div
+        class="modal"
+        id="example-modal-1"
+      >
+        <a
+          aria-label="Close"
+          class="modal-overlay"
+          href="#modals"
+        />
+        <div
+          class="modal-container"
+          role="document"
+        >
+          <div
+            class="modal-header"
+          >
+            <a
+              aria-label="Close"
+              class="btn btn-clear float-right"
+              href="#modals"
+            />
+            <div
+              class="modal-title h5"
+            >
+              Modal title
+            </div>
+          </div>
+          <div
+            class="modal-body"
+          >
+            <div
+              class="content"
+            >
+              <p>
+                This is the content inside the modal.
+              </p>
+              <h4>
+                Lorem ipsum
+              </h4>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
+              </p>
+              <p>
+                Climb leg rub face on everything give attitude nap all day for under the bed. Chase mice attack feet but rub face on everything hopped up on goofballs.
+              </p>
+              <h4>
+                Cupcake ipsum
+              </h4>
+              <p>
+                Jelly-o sesame snaps halvah croissant oat cake cookie. Cheesecake bear claw topping. Chupa chups apple pie carrot cake chocolate cake caramels.
+              </p>
+              <p>
+                De braaaiiiins apocalypsi gorger omero prefrontal cortex undead survivor fornix dictum mauris. Hi brains mindless mortuis limbic cortex soulless creaturas optic nerve.
+              </p>
+              <h4>
+                Candy ipsum
+              </h4>
+              <p>
+                Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar.
+              </p>
+              <p>
+                Caerphilly swiss fromage frais. Brie cheese and wine fromage frais chalk and cheese danish fontina smelly cheese who moved my cheese cow.
+              </p>
+            </div>
+          </div>
+          <div
+            class="modal-footer"
+          >
+            <button
+              class="btn btn-primary"
+            >
+              Share
+            </button>
+            <a
+              class="btn btn-link"
+              href="#modals"
+            >
+              Close
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
