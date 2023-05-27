@@ -12,6 +12,7 @@ import Nav from './components/Nav'
 import Navbar from './components/Navbar'
 import Pagination from './components/Pagination'
 import SliderBar from './components/SliderBar'
+import PaginationControl from './components/PaginationControl'
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
       <Modal />
       <Nav />
       <Pagination />
+      <PaginationControl />
     </Layout>
   );
 }

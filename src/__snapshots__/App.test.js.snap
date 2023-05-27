@@ -840,6 +840,54 @@ Object {
                     </a>
                   </li>
                 </ul>
+                <div
+                  class="columns"
+                >
+                  <div
+                    class="column col-4"
+                  >
+                    <ul
+                      class="pagination"
+                    >
+                      <li
+                        class="page-item page-prev"
+                      >
+                        <a
+                          href="#"
+                        >
+                          <div
+                            class="page-item-subtitle"
+                          >
+                            Previous
+                          </div>
+                          <div
+                            class="page-item-title h5"
+                          >
+                            Getting started
+                          </div>
+                        </a>
+                      </li>
+                      <li
+                        class="page-item page-next"
+                      >
+                        <a
+                          href="#"
+                        >
+                          <div
+                            class="page-item-subtitle"
+                          >
+                            Next
+                          </div>
+                          <div
+                            class="page-item-title h5"
+                          >
+                            Layout
+                          </div>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -1683,6 +1731,54 @@ Object {
                   </a>
                 </li>
               </ul>
+              <div
+                class="columns"
+              >
+                <div
+                  class="column col-4"
+                >
+                  <ul
+                    class="pagination"
+                  >
+                    <li
+                      class="page-item page-prev"
+                    >
+                      <a
+                        href="#"
+                      >
+                        <div
+                          class="page-item-subtitle"
+                        >
+                          Previous
+                        </div>
+                        <div
+                          class="page-item-title h5"
+                        >
+                          Getting started
+                        </div>
+                      </a>
+                    </li>
+                    <li
+                      class="page-item page-next"
+                    >
+                      <a
+                        href="#"
+                      >
+                        <div
+                          class="page-item-subtitle"
+                        >
+                          Next
+                        </div>
+                        <div
+                          class="page-item-title h5"
+                        >
+                          Layout
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
