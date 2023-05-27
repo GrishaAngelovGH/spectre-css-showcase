@@ -8,9 +8,10 @@ import Hero from './components/Hero'
 import Layout from './components/Layout'
 import Menu from './components/Menu'
 import Modal from './components/Modal'
-import Navbar from './components/Navbar'
-import SliderBar from './components/SliderBar'
 import Nav from './components/Nav'
+import Navbar from './components/Navbar'
+import Pagination from './components/Pagination'
+import SliderBar from './components/SliderBar'
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       <Menu />
       <Modal />
       <Nav />
+      <Pagination />
     </Layout>
   );
 }
