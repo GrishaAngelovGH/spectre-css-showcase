@@ -11,8 +11,9 @@ import Modal from './components/Modal'
 import Nav from './components/Nav'
 import Navbar from './components/Navbar'
 import Pagination from './components/Pagination'
-import SliderBar from './components/SliderBar'
 import PaginationControl from './components/PaginationControl'
+import Panel from './components/Panel'
+import SliderBar from './components/SliderBar'
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
       <Nav />
       <Pagination />
       <PaginationControl />
+      <Panel />
     </Layout>
   );
 }
