@@ -1260,6 +1260,58 @@ Object {
                     </div>
                   </div>
                 </div>
+                <div
+                  class="column col-12"
+                >
+                  <ul
+                    class="step"
+                  >
+                    <li
+                      class="step-item"
+                    >
+                      <a
+                        class="tooltip"
+                        data-tooltip="Step 1 Tooltip"
+                        href="#steps"
+                      >
+                        Step 1
+                      </a>
+                    </li>
+                    <li
+                      class="step-item"
+                    >
+                      <a
+                        class="tooltip"
+                        data-tooltip="Step 2 Tooltip"
+                        href="#steps"
+                      >
+                        Step 2
+                      </a>
+                    </li>
+                    <li
+                      class="step-item active"
+                    >
+                      <a
+                        class="tooltip"
+                        data-tooltip="Step 3 Tooltip"
+                        href="#steps"
+                      >
+                        Step 3
+                      </a>
+                    </li>
+                    <li
+                      class="step-item"
+                    >
+                      <a
+                        class="tooltip"
+                        data-tooltip="Step 4 Tooltip"
+                        href="#steps"
+                      >
+                        Step 4
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
@@ -2522,6 +2574,58 @@ Object {
                     </div>
                   </div>
                 </div>
+              </div>
+              <div
+                class="column col-12"
+              >
+                <ul
+                  class="step"
+                >
+                  <li
+                    class="step-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Step 1 Tooltip"
+                      href="#steps"
+                    >
+                      Step 1
+                    </a>
+                  </li>
+                  <li
+                    class="step-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Step 2 Tooltip"
+                      href="#steps"
+                    >
+                      Step 2
+                    </a>
+                  </li>
+                  <li
+                    class="step-item active"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Step 3 Tooltip"
+                      href="#steps"
+                    >
+                      Step 3
+                    </a>
+                  </li>
+                  <li
+                    class="step-item"
+                  >
+                    <a
+                      class="tooltip"
+                      data-tooltip="Step 4 Tooltip"
+                      href="#steps"
+                    >
+                      Step 4
+                    </a>
+                  </li>
+                </ul>
               </div>
             </div>
           </div>

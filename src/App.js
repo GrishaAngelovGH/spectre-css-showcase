@@ -15,6 +15,7 @@ import PaginationControl from './components/PaginationControl'
 import Panel from './components/Panel'
 import Popovers from './components/Popovers'
 import SliderBar from './components/SliderBar'
+import Steps from './components/Steps'
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
       <PaginationControl />
       <Panel />
       <Popovers />
+      <Steps />
     </Layout>
   );
 }
