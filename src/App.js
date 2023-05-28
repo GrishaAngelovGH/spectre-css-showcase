@@ -13,6 +13,7 @@ import Navbar from './components/Navbar'
 import Pagination from './components/Pagination'
 import PaginationControl from './components/PaginationControl'
 import Panel from './components/Panel'
+import Popovers from './components/Popovers'
 import SliderBar from './components/SliderBar'
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
       <Pagination />
       <PaginationControl />
       <Panel />
+      <Popovers />
     </Layout>
   );
 }
