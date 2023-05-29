@@ -1424,6 +1424,50 @@ Object {
                     </div>
                   </div>
                 </div>
+                <div
+                  class="columns text-center m-2"
+                >
+                  <div
+                    class="column col-xs-12"
+                  >
+                    <button
+                      class="btn btn-primary tooltip "
+                      data-tooltip="Top Tooltip Text"
+                    >
+                      top tooltip
+                    </button>
+                  </div>
+                  <div
+                    class="column col-xs-12"
+                  >
+                    <button
+                      class="btn btn-primary tooltip tooltip-right"
+                      data-tooltip="Top Tooltip Text"
+                    >
+                      tooltip-right
+                    </button>
+                  </div>
+                  <div
+                    class="column col-xs-12"
+                  >
+                    <button
+                      class="btn btn-primary tooltip tooltip-bottom"
+                      data-tooltip="Top Tooltip Text"
+                    >
+                      tooltip-bottom
+                    </button>
+                  </div>
+                  <div
+                    class="column col-xs-12"
+                  >
+                    <button
+                      class="btn btn-primary tooltip tooltip-left"
+                      data-tooltip="Top Tooltip Text"
+                    >
+                      tooltip-left
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -2849,6 +2893,50 @@ Object {
                   >
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio pariatur nulla repellat rerum amet, ad, neque quo ducimus cum dolore illum.
                   </div>
+                </div>
+              </div>
+              <div
+                class="columns text-center m-2"
+              >
+                <div
+                  class="column col-xs-12"
+                >
+                  <button
+                    class="btn btn-primary tooltip "
+                    data-tooltip="Top Tooltip Text"
+                  >
+                    top tooltip
+                  </button>
+                </div>
+                <div
+                  class="column col-xs-12"
+                >
+                  <button
+                    class="btn btn-primary tooltip tooltip-right"
+                    data-tooltip="Top Tooltip Text"
+                  >
+                    tooltip-right
+                  </button>
+                </div>
+                <div
+                  class="column col-xs-12"
+                >
+                  <button
+                    class="btn btn-primary tooltip tooltip-bottom"
+                    data-tooltip="Top Tooltip Text"
+                  >
+                    tooltip-bottom
+                  </button>
+                </div>
+                <div
+                  class="column col-xs-12"
+                >
+                  <button
+                    class="btn btn-primary tooltip tooltip-left"
+                    data-tooltip="Top Tooltip Text"
+                  >
+                    tooltip-left
+                  </button>
                 </div>
               </div>
             </div>

@@ -19,6 +19,7 @@ import Steps from './components/Steps'
 import Tabs from './components/Tabs'
 import Tiles from './components/Tiles'
 import Toast from './components/Toast'
+import Tooltips from './components/Tooltips'
 
 function App() {
   return (
@@ -45,6 +46,7 @@ function App() {
       <Tabs />
       <Tiles />
       <Toast />
+      <Tooltips />
     </Layout>
   );
 }
