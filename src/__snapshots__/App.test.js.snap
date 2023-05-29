@@ -1312,6 +1312,51 @@ Object {
                     </li>
                   </ul>
                 </div>
+                <div
+                  class="column col-6 col-sm-12 col-mx-auto"
+                  style="padding: 100px;"
+                >
+                  <ul
+                    class="tab"
+                  >
+                    <li
+                      class="tab-item active"
+                    >
+                      <a
+                        href="#tabs"
+                      >
+                        Music
+                      </a>
+                    </li>
+                    <li
+                      class="tab-item"
+                    >
+                      <a
+                        href="#tabs"
+                      >
+                        Playlists
+                      </a>
+                    </li>
+                    <li
+                      class="tab-item"
+                    >
+                      <a
+                        href="#tabs"
+                      >
+                        Radio
+                      </a>
+                    </li>
+                    <li
+                      class="tab-item"
+                    >
+                      <a
+                        href="#tabs"
+                      >
+                        Store
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
@@ -2623,6 +2668,51 @@ Object {
                       href="#steps"
                     >
                       Step 4
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div
+                class="column col-6 col-sm-12 col-mx-auto"
+                style="padding: 100px;"
+              >
+                <ul
+                  class="tab"
+                >
+                  <li
+                    class="tab-item active"
+                  >
+                    <a
+                      href="#tabs"
+                    >
+                      Music
+                    </a>
+                  </li>
+                  <li
+                    class="tab-item"
+                  >
+                    <a
+                      href="#tabs"
+                    >
+                      Playlists
+                    </a>
+                  </li>
+                  <li
+                    class="tab-item"
+                  >
+                    <a
+                      href="#tabs"
+                    >
+                      Radio
+                    </a>
+                  </li>
+                  <li
+                    class="tab-item"
+                  >
+                    <a
+                      href="#tabs"
+                    >
+                      Store
                     </a>
                   </li>
                 </ul>
