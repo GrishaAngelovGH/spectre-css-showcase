@@ -1357,6 +1357,60 @@ Object {
                     </li>
                   </ul>
                 </div>
+                <div
+                  class="columns"
+                >
+                  <div
+                    class="column col-4 col-mx-auto bg-gray"
+                    style="margin-top: 50px; margin-bottom: 50px;"
+                  >
+                    <div
+                      class="tile"
+                    >
+                      <div
+                        class="tile-icon"
+                      >
+                        <figure
+                          class="avatar avatar-lg"
+                        >
+                          <figure
+                            class="avatar avatar-sm mx-2"
+                            data-initial="JS"
+                            style="background: rgb(87, 85, 217);"
+                          />
+                        </figure>
+                      </div>
+                      <div
+                        class="tile-content"
+                      >
+                        <p
+                          class="tile-title"
+                        >
+                          The Avengers
+                        </p>
+                        <p
+                          class="tile-subtitle"
+                        >
+                          Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle...
+                        </p>
+                      </div>
+                      <div
+                        class="tile-action"
+                      >
+                        <button
+                          class="btn btn-primary"
+                        >
+                          Join
+                        </button>
+                        <button
+                          class="btn"
+                        >
+                          Contact
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -2716,6 +2770,60 @@ Object {
                     </a>
                   </li>
                 </ul>
+              </div>
+              <div
+                class="columns"
+              >
+                <div
+                  class="column col-4 col-mx-auto bg-gray"
+                  style="margin-top: 50px; margin-bottom: 50px;"
+                >
+                  <div
+                    class="tile"
+                  >
+                    <div
+                      class="tile-icon"
+                    >
+                      <figure
+                        class="avatar avatar-lg"
+                      >
+                        <figure
+                          class="avatar avatar-sm mx-2"
+                          data-initial="JS"
+                          style="background: rgb(87, 85, 217);"
+                        />
+                      </figure>
+                    </div>
+                    <div
+                      class="tile-content"
+                    >
+                      <p
+                        class="tile-title"
+                      >
+                        The Avengers
+                      </p>
+                      <p
+                        class="tile-subtitle"
+                      >
+                        Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle...
+                      </p>
+                    </div>
+                    <div
+                      class="tile-action"
+                    >
+                      <button
+                        class="btn btn-primary"
+                      >
+                        Join
+                      </button>
+                      <button
+                        class="btn"
+                      >
+                        Contact
+                      </button>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

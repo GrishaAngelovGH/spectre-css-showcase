@@ -17,6 +17,7 @@ import Popovers from './components/Popovers'
 import SliderBar from './components/SliderBar'
 import Steps from './components/Steps'
 import Tabs from './components/Tabs'
+import Tiles from './components/Tiles'
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
       <Popovers />
       <Steps />
       <Tabs />
+      <Tiles />
     </Layout>
   );
 }
