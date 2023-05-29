@@ -1411,6 +1411,19 @@ Object {
                     </div>
                   </div>
                 </div>
+                <div
+                  class="columns m-2"
+                >
+                  <div
+                    class="column col-4 col-mx-auto"
+                  >
+                    <div
+                      class="toast toast-success"
+                    >
+                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio pariatur nulla repellat rerum amet, ad, neque quo ducimus cum dolore illum.
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -2822,6 +2835,19 @@ Object {
                         Contact
                       </button>
                     </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="columns m-2"
+              >
+                <div
+                  class="column col-4 col-mx-auto"
+                >
+                  <div
+                    class="toast toast-success"
+                  >
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio pariatur nulla repellat rerum amet, ad, neque quo ducimus cum dolore illum.
                   </div>
                 </div>
               </div>

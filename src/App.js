@@ -18,6 +18,7 @@ import SliderBar from './components/SliderBar'
 import Steps from './components/Steps'
 import Tabs from './components/Tabs'
 import Tiles from './components/Tiles'
+import Toast from './components/Toast'
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
       <Steps />
       <Tabs />
       <Tiles />
+      <Toast />
     </Layout>
   );
 }
